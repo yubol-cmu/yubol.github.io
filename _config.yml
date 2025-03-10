@@ -24,9 +24,9 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Yubo Li" 
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Ph.D. Student in Information Systems"
+  employer         : "Carnegie Mellon University"
   location         : "Earth"
-  employer         : "Red Brick University"
   uri              : # URL
   email            : "yubol@andrew.cmu.edu" 
 
